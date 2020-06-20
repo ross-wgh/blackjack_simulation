@@ -13,4 +13,6 @@ Getting two aces in first two cards equals a sum of 12. Otherwise an ace in the 
 
 Cards are psuedo-randomly generated
 
+Each game is independent of the next - deck is reset upon game completion.
+
 Plotted in matplotlib
